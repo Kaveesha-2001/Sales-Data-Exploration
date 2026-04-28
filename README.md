@@ -23,3 +23,5 @@ This project focuses on analyzing organizational sales data to provide an execut
 ## Tools Used
 - Power BI Desktop
 - Power Query (ETL)
+
+![Dashboard Screenshot](salesdashboard.png)
