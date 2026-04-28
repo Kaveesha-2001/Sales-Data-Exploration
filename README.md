@@ -25,3 +25,5 @@ This project focuses on analyzing organizational sales data to provide an execut
 - Power Query (ETL)
 
 ![Dashboard Screenshot](salesdashboard.png)
+![Dashboard Screenshot](profit.png)
+![Dashboard Screenshot](sales&country.png)
